@@ -6,9 +6,11 @@
  * Plugin URI: https://mygate.me/
  * Description: Decentralized cryptocurrency payment gateway for WooCommerce and Easy Digital Downloads
  * Version: 1.0.0
- * Author: MyGate 
+ * Author: mygate 
  * Author URI: https://mygate.me/docs/#wordpress
  * © 2024-2025 mygate.me. All rights reserved.
+ * License: MIT
+ * License URI: https://opensource.org/licenses/MIT
  *
  */
 
