@@ -7,9 +7,9 @@
  <img alt="MyGate Admin" src="https://mygate.me/mygate-images/features/features.png">
 </picture>
 
-== Description ==
+### Description 
 
-MyGate - Empowering Businesses with Decentralized Crypto Payments 💱
+MyGate - Empowering Businesses with Decentralized Crypto Payments 💱 
 Seamlessly accept Bitcoin, Ethereum, Tether USDT, Custom Tokens and more. With our decentralized gateway, you stay in complete control of your funds 💯
 
 ### Features
@@ -44,11 +44,11 @@ MyGate offers a comprehensive suite of features designed to reduce fees and boos
 - No Chargebacks 🧲
 - Literally Global 🌎
 
-== Cryptocurrencies Supported ==
+### Cryptocurrencies Supported
 
-[https://mygate.me/currencies/](https://mygate.me/currencies/)
+🔗 [https://mygate.me/currencies/](https://mygate.me/currencies/)
 
-== Installation ==
+### Installation
 
 1. Register a new account at [https://app.mygate.me](https://app.mygate.me).
 2. Upload the plugin folder myfate-wp to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
@@ -59,15 +59,15 @@ MyGate offers a comprehensive suite of features designed to reduce fees and boos
 5. From WooCommerce > Settings > Payments activate the MyGate payment gateway. If you are using Easy Digital Downloads, go to Downloads > Settings > Payments.
 6. You're done. Your WooCommerce customers can now pay via MyGate.
  
-More details at https://mygate.me/docs/#wordpress
+More details at 🔗 https://mygate.me/docs/#wordpress
 
-== Screenshots ==
+### Screenshots
 
 1. Dashboard
 2. Checkout
 3. Settings
 
-== FAQ ==
+### FAQ
 
-https://mygate.me/faq/
+🔗 https://mygate.me/faq/
 
