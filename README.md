@@ -2,9 +2,9 @@
 ## Decentralized cryptocurrency payment gateway for WooCommerce and Easy Digital Downloads
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://mygate.me/mygate-images/features/features.png">
- <source media="(prefers-color-scheme: light)" srcset="https://mygate.me/mygate-images/features/features.png">
- <img alt="MyGate Admin" src="https://mygate.me/mygate-images/features/features.png">
+ <source media="(prefers-color-scheme: dark)" srcset="/assets/features.png">
+ <source media="(prefers-color-scheme: light)" srcset="/assets/features.png">
+ <img alt="MyGate Admin" src="/assets/features.png">
 </picture>
 
 ### Description 
@@ -63,11 +63,18 @@ More details at 🔗 https://mygate.me/docs/#wordpress
 
 ### Screenshots
 
-1. Dashboard
-2. Checkout
-3. Settings
+1. Wordpress > Settings > MyGate
+2. MyGate > Settings > Webhook
+3. MyGate > Account > API key
 
-### FAQ
+### Frequently Asked Questions
 
-🔗 https://mygate.me/faq/
+**What is needed to get started quickly?**
+1. Sign up.
+2. Enter the cryptocurrency addresses that will receive payments.
+3. Create checkouts or use integrations.
+
+== Changelog ==
+
+= 1.0.0 =
 
