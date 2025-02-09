@@ -1,5 +1,5 @@
 # MyGate WP
-### Decentralized cryptocurrency payment gateway for WooCommerce and Easy Digital Downloads
+## Decentralized cryptocurrency payment gateway for WooCommerce and Easy Digital Downloads
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://mygate.me/mygate-images/features/features.png">
@@ -12,7 +12,7 @@
 MyGate - Empowering Businesses with Decentralized Crypto Payments 💱
 Seamlessly accept Bitcoin, Ethereum, Tether USDT, Custom Tokens and more. With our decentralized gateway, you stay in complete control of your funds 💯
 
-== Features ==
+### Features
 
 MyGate offers a comprehensive suite of features designed to reduce fees and boost checkout success rates. Explore all available features here:  🔗 https://mygate.me/features
 
