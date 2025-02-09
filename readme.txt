@@ -1,11 +1,11 @@
 === MyGate WP ===
 Contributors: mygate
 Donate link: https://mygate.me/donate/
-Tags:  bitcoin, crypto gateway, btc, checkout, crypto
+Tags:  bitcoin, crypto gateway, btc, checkout, eth
 Requires at least: 3.0.0
 Tested up to: 6.7.1
 Requires PHP: 7.4
-Stable tag: 1.0.2
+Stable tag: 1.0.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 
@@ -67,21 +67,25 @@ More details at https://mygate.me/docs/#wordpress
 
 == Screenshots ==
 
-1. Wordpress > Settings > MyGate
-2. MyGate > Settings > Webhook
-3. MyGate > Account > API key
+1. `Wordpress` > `Settings` > `MyGate`
+2. `MyGate` > `Settings` > `Webhook`
+3. `MyGate` > `Account` > `API key`
+
+== Demo ==
+
+https://demo.mygate.me/
 
 == Frequently Asked Questions ==
 
-=  What is needed to get started quickly? =
+**What is needed to get started quickly?**
 1. Sign up.
 2. Enter the cryptocurrency addresses that will receive payments.
 3. Create checkouts or use integrations.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.0 =

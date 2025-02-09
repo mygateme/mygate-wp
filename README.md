@@ -63,9 +63,9 @@ More details at 🔗 https://mygate.me/docs/#wordpress
 
 ### Screenshots
 
-1. Wordpress > Settings > MyGate
-2. MyGate > Settings > Webhook
-3. MyGate > Account > API key
+1. `Wordpress` > `Settings` > `MyGate`
+2. `MyGate` > `Settings` > `Webhook`
+3. `MyGate` > `Account` > `API key`
 
 ### Frequently Asked Questions
 
