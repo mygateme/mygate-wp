@@ -1,2 +1,2 @@
-# mygate-wp
+# MyGate WP
 MyGate Wordpress
