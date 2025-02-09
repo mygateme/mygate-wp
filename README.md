@@ -9,8 +9,8 @@
 
 ### Description 
 
-MyGate - Empowering Businesses with Decentralized Crypto Payments 💱 
-Seamlessly accept Bitcoin, Ethereum, Tether USDT, Custom Tokens and more. With our decentralized gateway, you stay in complete control of your funds 💯
+MyGate - Empowering Businesses with Decentralized Crypto Payments. 💱
+Seamlessly accept Bitcoin, Ethereum, Tether USDT, Custom Tokens and more. With our decentralized gateway, you stay in complete control of your funds. 💯
 
 ### Features
 
